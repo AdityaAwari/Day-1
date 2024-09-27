@@ -1,3 +1,14 @@
+/**
+Output:
+ * * * * * 
+ * * * * *
+ * * * * *
+**/	
+
+
+
+
+
 public class pat1{
 	public static void main(String s[]){
 		for(int i=1;i<=3;i++){
